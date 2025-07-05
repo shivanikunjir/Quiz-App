@@ -5,8 +5,8 @@
     box-sizing: border-box;
 }
 body{
-    /* background-color: #00183f; */
-    background-image: url(backimg.png);
+    background-color: #00183f;
+/*     background-image: url(backimg.png); */
 }
 
 .app{
